@@ -1,2 +1,2 @@
 #How to run 
-python3 ./qr_generator.py
+>python3 ./qr_generator.py
